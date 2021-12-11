@@ -37,11 +37,11 @@ p {
   bottom: 0;
   left: 0;
   content: "";
-  background-image: url("image/intro.gif");
+  background-image: url("image/57604.gif");
   background-size:contain;
   position: absolute;
   background-repeat: no-repeat;
-  opacity: 0.3;
+  opacity: 0.15;
   background-position-x: 50%;
   background-position-y: 50%;
 }
