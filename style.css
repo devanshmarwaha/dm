@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+.navbar{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h5,p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.skills p{
+    font-size: 15px;
+}
+
+.footer{
+    background-color: rgb(160, 160, 160);
+}
+
+.footer a{
+    margin: 1em 1em 1em 1em;
+    color: rgb(53, 52, 52);
+}
