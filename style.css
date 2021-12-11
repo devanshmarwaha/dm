@@ -1,29 +1,47 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 
-.navbar{
-    font-family: 'Nunito Sans', sans-serif;
+.navbar {
+  font-family: "Nunito Sans", sans-serif;
 }
 
-h5,p{
-    font-family: 'Nunito Sans', sans-serif;
+h5,
+p {
+  font-family: "Nunito Sans", sans-serif;
 }
-.skills p{
-    font-size: 15px;
-}
-
-.footer{
-    border-top-color: rgb(133, 133, 133);
-    border-top-style: solid;
-    border-top-width: 0.3px;
+.skills p {
+  font-size: 15px;
 }
 
-.footer a{
-    margin: 1em 1em 1em 1em;
-    color: rgb(53, 52, 52);
+.footer {
+  border-top-color: rgb(133, 133, 133);
+  border-top-style: solid;
+  border-top-width: 0.3px;
+}
+#sss {
+  vertical-align: bottom;
+}
+.footer a {
+  margin: 1em 1em 1em 1em;
+  color: rgb(53, 52, 52);
+}
+
+.saa::before {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: "";
+  background-image: url("image/intro.gif");
+  background-size:contain;
+  position: absolute;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+  background-position-x: 50%;
+  background-position-y: 50%;
 }
