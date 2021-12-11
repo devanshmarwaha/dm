@@ -18,7 +18,9 @@ h5,p{
 }
 
 .footer{
-    background-color: rgb(230, 227, 227);
+    border-top-color: rgb(133, 133, 133);
+    border-top-style: solid;
+    border-top-width: 0.3px;
 }
 
 .footer a{
