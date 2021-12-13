@@ -63,7 +63,7 @@ hr{
   outline: none;
 }
 
-@media only screen and (max-width: 776px) {
+@media only screen and (max-width: 767px) {
   #mails {
     display: none;
   }
