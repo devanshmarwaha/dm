@@ -52,6 +52,8 @@ p {
 
 .links{
   margin-top: 0.5em;
+  margin-left: 1em;
+  text-align: justify;
 }
 
 body{
